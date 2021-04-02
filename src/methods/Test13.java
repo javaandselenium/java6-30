@@ -8,7 +8,7 @@ final public class Test13 {
 	
 
 	public static void main(String[] args) {
-		final int a=10;
+		int a=10;
 			a=100;
 
 	}
