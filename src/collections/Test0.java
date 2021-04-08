@@ -14,6 +14,7 @@ public class Test0 {
 		a.add(10);
 		a.add(200);
 		
+		
 		for(int i=0;i<a.size();i++) {
 			System.out.println(a.get(i));
 		}
