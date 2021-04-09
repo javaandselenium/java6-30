@@ -8,7 +8,6 @@ public class Test15 {
 		c[1]='B';
 		c[2]='C';
 		c[3]='D';
-		Collectio
 		
 		for(char a:c) {
 			System.out.println(a);
